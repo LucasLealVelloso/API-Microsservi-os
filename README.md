@@ -3,8 +3,10 @@ Projeto realizado em sala de aula.
 
 <br>Print da execução do Swagger no FastAPI
 <img src='swagger.png'>
-<br>Print da execução do metodo get no ThunderClient
+<br>Print da execução do metodo GET no ThunderClient
 <img src='thunderclient.png'>
+<br>Print da execução do metodo POST no ThunderClient
+<img src='thunderclientPOST.png'>
 
 <br>instalar extensões
 <br>	thunderclient
