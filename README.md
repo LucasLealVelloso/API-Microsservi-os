@@ -1,7 +1,7 @@
 # API-Microsserviços
 Projeto realizado em sala de aula.
-<img src='swagger.jpg'>
-<img src='thunderclient.jpg'>
+<img src='swagger.png'>
+<img src='thunderclient.png'>
 
 <br>instalar extensões
 <br>	thunderclient
