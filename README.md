@@ -1,6 +1,9 @@
 # API-Microsserviços
 Projeto realizado em sala de aula.
+
+<br>Print da execução do Swagger no FastAPI
 <img src='swagger.png'>
+<br>Print da execução do metodo get no ThunderClient
 <img src='thunderclient.png'>
 
 <br>instalar extensões
